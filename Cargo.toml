@@ -1,0 +1,4 @@
+[package]
+name = "acgart_downloader"
+version = "0.1.0"
+authors = ["Tianxiang Chen <txchendev@gmail.com>"]
